@@ -21,9 +21,9 @@ using VRC.DataModel;
 using VRC.UI.Elements.Menus;
 using ConfigManager = ReMod.Core.Managers.ConfigManager;
 
-namespace ReModCE
+namespace Vanity Client
 {
-    public static class ReModCE
+    public static class Vanity_client
     {
         private static readonly List<ModComponent> Components = new List<ModComponent>();
         private static UiManager _uiManager;
